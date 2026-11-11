@@ -56,20 +56,6 @@ lies with the user. See [DISCLAIMER.md](DISCLAIMER.md).
 | API intelligence | Shodan (3 query chains + favicon hash hunt), Censys (2 query chains) |
 
 ## Install
-## 💬 Join the Community
-
-Have questions, suggestions, or want to keep up with Backscrape?
-
-<p align="center">
-  <a href="https://discord.gg/yEHUQJXJS2">
-    <img src="./assets/discord-icon.png" width="48" height="48" alt="Discord server icon" />
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/yEHUQJXJS2">
-    <img src="https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord" />
-  </a>
-</p>
-## Install
 
 ```bash
 git clone https://github.com/CR05H/backscrape.git
