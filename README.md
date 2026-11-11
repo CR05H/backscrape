@@ -1,4 +1,12 @@
 <p align="center">
+  <img
+    src="./assets/backscrape-banner.png"
+    alt="Backscrape Banner"
+    width="100%"
+  />
+</p>
+
+<p align="center">
   <img src="assets/backscrape-logo.png"
        alt="Backscrape logo"
        width="200">
