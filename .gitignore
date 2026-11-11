@@ -1,0 +1,10 @@
+backscrape-results/
+*.log
+keys.conf
+*.json.tmp
+src/
+score.py
+favhash.py
+__pycache__/
+*.pyc
+.DS_Store
