@@ -31,7 +31,7 @@ lies with the user. See [DISCLAIMER.md](DISCLAIMER.md).
 ## Install
 
 ```bash
-git clone https://github.com/YOURUSERNAME/backscrape.git
+git clone https://github.com/CR05H/backscrape.git
 cd backscrape
 chmod +x backscrape.sh
 sudo cp backscrape.sh /usr/local/bin/backscrape   # optional: global command
