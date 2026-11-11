@@ -56,14 +56,6 @@ lies with the user. See [DISCLAIMER.md](DISCLAIMER.md).
 | API intelligence | Shodan (3 query chains + favicon hash hunt), Censys (2 query chains) |
 
 ## Install
-
-```bash
-git clone https://github.com/CR05H/backscrape.git
-cd backscrape
-chmod +x backscrape.sh
-sudo cp backscrape.sh /usr/local/bin/backscrape   # optional: global command
-./backscrape.sh
-
 ## 💬 Join the Community
 
 Have questions, suggestions, or want to keep up with Backscrape?
