@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="assets/backscrape-logo.png"
+       alt="Backscrape logo"
+       width="200">
+</p>
+
+<h1 align="center">Backscrape</h1>
+
+<p align="center">
+  Cloudflare Origin Research & Security Analysis
+</p>
+
 # backscrape
 
 **Cloudflare origin hunter** — find the real server IP behind a Cloudflare-proxied
@@ -12,6 +24,16 @@ This tool is for **authorized security testing and educational use only**.
 You must own the target domain or have explicit written permission from the
 owner. The author is **not responsible** for any misuse — full responsibility
 lies with the user. See [DISCLAIMER.md](DISCLAIMER.md).
+
+## Terminal Preview
+
+<p align="center">
+  <img src="assets/terminal-demo.png" alt="Backscrape terminal demonstration" width="900">
+</p>
+
+<p align="center">
+  <i>Backscrape running in a Linux terminal.</i>
+</p>
 
 ## What it does
 
