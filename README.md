@@ -23,6 +23,16 @@ with a probability score.
 
 > Author: **Omar Emad** · v8.0 · pure bash · no framework
 
+## 🚀 A New Project, Built to Deliver
+
+**Backscrape is fully functional and ready to use!**
+
+Although Backscrape is still a relatively new project, a lot of work has gone into making it a capable, reliable, and feature-rich tool. There is still plenty of room to grow, improve, and add even more functionality.
+
+If you find Backscrape useful, your support would mean a lot! Whether it is giving the repository a ⭐ star, reporting bugs, sharing suggestions, contributing improvements, or joining the community, every bit of support helps the project move forward.
+
+**Thank you for checking out Backscrape and being part of its journey!** ❤️
+
 ## ⚠️ Legal disclaimer
 
 This tool is for **authorized security testing and educational use only**.
