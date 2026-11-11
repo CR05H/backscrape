@@ -7,10 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/backscrape-logo.png"
-       alt="Backscrape logo"
-       width="200">
-</p>
+  </p>
 
 <h1 align="center">Backscrape</h1>
 
